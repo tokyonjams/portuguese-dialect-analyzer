@@ -9,7 +9,7 @@ Natural Language Processing (NLP) models can often distinguish these varieties u
 
 This project investigates whether NLP models can identify Portuguese linguistic varieties based on their linguistic characteristics independently of geographical and topical context.
 
-##2. Research Question
+## 2. Research Question
 
 To what extent can NLP models identify Portuguese linguistic varieties independently of geographical and topical context?
 
