@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+#csv files
+.csv
+
+# Local data
+data/raw/
+data/processed/
+
+# Model artifacts
+models/*.joblib
+models/*.pkl
+models/*.pt
+models/*.pth
+
+# System files
+.DS_Store
