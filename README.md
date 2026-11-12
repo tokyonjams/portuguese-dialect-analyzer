@@ -15,11 +15,11 @@ To what extent can NLP models identify Portuguese linguistic varieties independe
 
 The project explores three related questions:
 
-Which lexical and character-level features are most predictive of PT-PT and PT-BR?
+- Which lexical and character-level features are most predictive of PT-PT and PT-BR?
 
-To what extent does model performance change across different textual domains?
+- To what extent does model performance change across different textual domains?
 
-How do geographical context and topical content influence variety classification?
+- How do geographical context and topical content influence variety classification?
 
 3. Research Methodology
 
