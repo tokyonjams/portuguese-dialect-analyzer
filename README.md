@@ -1,7 +1,7 @@
 # portuguese-dialect-analyzer
 A NLP Projects for identifying and classifying national varieties of Portuguese
 
-1. Overview
+## 1. Overview
 
 Portuguese is spoken across multiple countries and communities, with substantial linguistic variation between national varieties. Two of the most widely studied varieties are European Portuguese (PT-PT) and Brazilian Portuguese (PT-BR).
 
@@ -9,7 +9,7 @@ Natural Language Processing (NLP) models can often distinguish these varieties u
 
 This project investigates whether NLP models can identify Portuguese linguistic varieties based on their linguistic characteristics independently of geographical and topical context.
 
-2. Research Question
+##2. Research Question
 
 To what extent can NLP models identify Portuguese linguistic varieties independently of geographical and topical context?
 
@@ -21,7 +21,7 @@ The project explores three related questions:
 
 - How do geographical context and topical content influence variety classification?
 
-3. Research Methodology
+## 3. Research Methodology
 
 The project follows an experimental approach, combining supervised text classification, cross-domain evaluation and analysis of model features.
 
